@@ -1,0 +1,8 @@
+
+Home
+
+Machine
+
+Consumables
+
+Login
